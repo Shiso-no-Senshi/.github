@@ -18,7 +18,7 @@ To get started with our projects, please refer to the individual README files wi
 
 ### Contributing
 
-We welcome contributions from the community to enhance our projects and make them even better. If you're interested in contributing, please follow the guidelines outlined in the CONTRIBUTING.md file of the respective project.
+We welcome contributions from the community to enhance our projects and make them even better. If you're interested in contributing, please follow the guidelines outlined in the CONTRIBUTING.md file of the respective project. All contributors agree to the [Developer Certificate of Origin](<DCO.md>).
 
 ## Legal
 
