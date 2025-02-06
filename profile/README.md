@@ -6,9 +6,11 @@ Shisō no Senshi is dedicated to streamlining Knowledge Management through innov
 
 ## Projects
 
-[Shisō no Senshi](<https://github.com/Shiso-no-Senshi/shiso-no-senshi>) is the core tool, providing the platform for capturing, organizing, and managing knowledge.
+[Shisō no Senshi](https://github.com/Shiso-no-Senshi/shiso-no-senshi) is the core tool, providing the platform for capturing, organizing, and managing knowledge.
 
-[FLAME no Senshi](<>) is the documentation and reference implementation of the Flexible Layout and Advanced Markdown Extensions (FLAME) syntax. FLAME is a (mostly) backwards compatible extension of common markdown formats.
+[FLAME no Senshi](https://github.com/Shiso-no-Senshi/flame-no-senshi) is the documentation and reference implementation of the Flexible Layout and Advanced Markdown Extensions (FLAME) syntax. FLAME is a (mostly) backwards compatible extension of common markdown formats.
+
+[Sanbashi no Senshi](https://github.com/Shiso-no-Senshi/sanbashi-no-senshi) is a dockable window management library in pure Typescript.
 
 ## Community
 

@@ -1,5 +1,6 @@
 # Developer Certificate of Origin
-**Version 1.1**
+
+**Version 1.1**:
 
 Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
 
@@ -16,4 +17,3 @@ By making a contribution to this project, I certify that:
 (c) The contribution was provided directly to me by some other person who certified (a), (b) or (c) and I have not modified it.
 
 (d) I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
-
